@@ -1,0 +1,21 @@
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.vbproj.AssemblyReference.cache
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google_forms_clone_app.CreateSubmissionForm.resources
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google_forms_clone_app.MainForm.resources
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google_forms_clone_app.ViewSubmissionsForm.resources
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.vbproj.GenerateResource.cache
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.AssemblyInfoInputs.cache
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.AssemblyInfo.vb
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.vbproj.CoreCompileInputs.cache
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\bin\Debug\net8.0-windows\Google forms clone app.exe
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\bin\Debug\net8.0-windows\Google forms clone app.deps.json
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\bin\Debug\net8.0-windows\Google forms clone app.runtimeconfig.json
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\bin\Debug\net8.0-windows\Google forms clone app.dll
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\bin\Debug\net8.0-windows\Google forms clone app.pdb
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google f.0A8C949B.Up2Date
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.dll
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\refint\Google forms clone app.dll
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.pdb
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\Google forms clone app.genruntimeconfig.cache
+C:\Users\91701\source\repos\Google forms clone app\Google forms clone app\obj\Debug\net8.0-windows\ref\Google forms clone app.dll
